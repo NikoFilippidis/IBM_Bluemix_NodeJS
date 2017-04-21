@@ -1,0 +1,32 @@
+{
+  "name": "bluemixchatcdnf",
+  "version": "1.0.0",
+  "private" : "true",
+  "description": "Chat application with Node.js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NikoFilippidis/IBM_Bluemix_NodeJS.git"
+  },
+    "dependencies": {
+    "express": "~4.2.0",
+    "socket.io": "~1.7.0"
+  },
+  "keywords": [
+    "Nodejs",
+    "Bluemix",
+    "IBM",
+    "Chat",
+    "Socket.io"
+  ],
+  "author": "Niko Filippidis, Christoph Dörr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NikoFilippidis/IBM_Bluemix_NodeJS/issues"
+  },
+  "homepage": "https://github.com/NikoFilippidis/IBM_Bluemix_NodeJS#readme"
+}
